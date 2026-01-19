@@ -1,0 +1,23 @@
+[33mcommit b72638fdd8ad624268056d0116ee0ea6bcb254cc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ask Fjeldstad <asfja001@osloskolen.no>
+Date:   Mon Jan 19 08:37:46 2026 +0100
+
+    test
+
+[33mcommit e2805887a215df045e2ce66aeb1a59cebaf27f30[m
+Author: Alvin Øye Syversen <alsya004@osloskolen.no>
+Date:   Mon Dec 15 09:28:06 2025 +0100
+
+    Boble-Utkast
+
+[33mcommit 6dbb623e544bd2d15fcd46711190ce359a60b123[m
+Author: hmauroy <hmauroy@gmail.com>
+Date:   Sun Dec 14 23:28:13 2025 +0100
+
+    Delte opp i ulike klassefiler samt main.py og hjelpefunksjoner.py så det skal være enkelt å jobbe parallelt for flere utviklere uten å få merge konflikter.
+
+[33mcommit aea6cbeb562b76b0a45096af7f67ae749d600485[m
+Author: hmauroy <hmauroy@gmail.com>
+Date:   Sun Dec 14 21:53:29 2025 +0100
+
+    Initial commit
