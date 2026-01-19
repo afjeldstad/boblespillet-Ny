@@ -3,6 +3,7 @@ import time
 from random import randint, random, uniform
 from ring import Ring
 
+
 window = tk.Tk()
 window.lift()
 window.title("Boblespillet")
@@ -125,6 +126,7 @@ while isRunning:
         lastTime = time.time()
     window.update()
 
-
+ring1 = Ring(5, 10, 10)
+ring1.tegn()
 # Kjører vinduet. Må være nederst i koden.
 window.mainloop()

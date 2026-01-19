@@ -68,3 +68,5 @@ class Boble(Ring):
             self.dy = -self.dy
             
         super().tegn()
+
+        #test

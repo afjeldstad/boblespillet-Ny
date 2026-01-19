@@ -15,3 +15,4 @@ class Ring:
         """Tegn ringen i canvas."""
         self.canvas.create_oval(self.x-self.R,self.y-self.R,
         self.x+self.R,self.y+self.R, outline=self.outline,tags=self.tag)
+    
